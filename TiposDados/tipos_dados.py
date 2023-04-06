@@ -105,3 +105,15 @@ fim_de_semana = int(fim_de_semana)
 print(type(fim_de_semana))
 print(fim_de_semana)
 print('------------------------------------')
+
+
+print('teste conversão de booleano')
+teste_booleano = "False"
+
+#conversão do tipo
+teste_booleano = bool("")
+print(type(teste_booleano))
+print(teste_booleano)
+#logo sempre será verdadeiro quando tiver algo dentro dessa variavel, se não tiver nada vai ser considerado falso.
+print('------------------------------------')
+
