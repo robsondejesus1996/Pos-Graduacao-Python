@@ -114,6 +114,6 @@ teste_booleano = "False"
 teste_booleano = bool("")
 print(type(teste_booleano))
 print(teste_booleano)
-#logo sempre será verdadeiro quando tiver algo dentro dessa variavel, se não tiver nada vai ser considerado falso.
+#logo sempre será verdadeiro quando tiver algo dentro dessa variavel, se não tiver nada vai ser considerado falso .
 print('------------------------------------')
 
