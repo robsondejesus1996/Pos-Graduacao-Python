@@ -1,5 +1,3 @@
-#teste dia 10/07
-
 #criando uma lista vazia
 lista_vazia = [0]
 lista_vazia2 = list()
