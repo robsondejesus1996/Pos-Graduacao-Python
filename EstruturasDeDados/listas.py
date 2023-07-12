@@ -35,7 +35,7 @@ lista[1] = 18
 print(lista)
 
 #principais metodos de um lista
-lista.append(18) # para adicionar um elemento
+lista.append(18) #para adicionar um elemento
 print(lista)
 
 lista_reais.clear()#para limpar os dados de uma lista
