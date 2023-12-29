@@ -23,7 +23,7 @@ tot = 1
 while tot <= quant:
     cont = 0
     while True:
-        num = randint(61, 121) #1 até 60
+        num = randint(1, 60) #1 até 60
         if num not in lista:
             lista.append(num)
             cont += 1

@@ -29,4 +29,21 @@ for nu in range(6):
     print("Números sorteados:", numeros_sorteio)
 
 
+'''
+ Jogo 1: [8, 37, 39, 42, 45, 54]
+ Jogo 2: [3, 9, 22, 24, 52, 56]
+ Jogo 3: [7, 30, 38, 45, 48, 53]
+ Jogo 4: [3, 16, 27, 28, 45, 53]
+ Jogo 5: [6, 7, 26, 41, 58, 60]
+
+Números sorteados: [3, 59, 4, 17, 41, 40]
+Números sorteados: [3, 22, 58, 11, 42, 5]
+Números sorteados: [56, 2, 4, 11, 58, 32]
+Números sorteados: [1, 36, 53, 46, 20, 3]
+Números sorteados: [20, 2, 11, 34, 53, 41]
+Números sorteados: [56, 58, 1, 51, 53, 35]
+
+'''
+
+
 
