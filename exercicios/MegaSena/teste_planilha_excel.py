@@ -30,6 +30,7 @@ while tot <= quant:
 
 sheet['A4'] = '-=' * 3 + f' SORTEANDO {quant} JOGOS ' + '-=' * 3
 for i, l in enumerate(jogos):
+    l.sort()  # Ordenando os números de cada jogo
     cell = sheet.cell(row=i+5, column=1)
     cell.value = f' Jogo {i+1}: {l}'
 
